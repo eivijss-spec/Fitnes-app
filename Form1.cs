@@ -28,14 +28,14 @@ namespace fitnesa_aplikācija
         private DateTime startTime;
         private TimeSpan elapsedTime;
         private TimeSpan pausedDuration;
-        private GoogleFitClient googleFitClient;
+       // private GoogleFitClient googleFitClient;
         private CancellationTokenSource cancellationTokenSource;
 
 
         public Form1()
         {
             InitializeComponent();
-            googleFitClient = new GoogleFitClient(); // Initialize Google Fit client
+           // googleFitClient = new GoogleFitClient(); // Initialize Google Fit client
         }
 
 
@@ -132,15 +132,15 @@ namespace fitnesa_aplikācija
 
             try
             {
-                int stepCount = await googleFitClient.GetStepCountAsync(startDate, endDate);
-                rtb_step.Text = stepCount.ToString();
+                //int stepCount = await googleFitClient.GetStepCountAsync(startDate, endDate);
+                //rtb_step.Text = stepCount.ToString();
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Error fetching step count: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
+        /*
         public class GoogleFitClient
         {
             private static string[] Scopes = { FitnessService.Scope.FitnessActivityRead };
@@ -207,13 +207,13 @@ namespace fitnesa_aplikācija
                 }
 
                 return stepCount;
-            }
+            }*/
 
 
-            private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
-            {
+        private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
-            }
         }
     }
 }
+
