@@ -1,0 +1,29 @@
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\fitnesa aplikācija.exe.config
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\fitnesa aplikācija.exe
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\fitnesa aplikācija.pdb
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\System.Data.SQLite.dll
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\System.Data.SQLite.xml
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\obj\Debug\fitnesa aplikācija.csprojAssemblyReference.cache
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\obj\Debug\fitnesa_aplikācija.Form1.resources
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\obj\Debug\fitnesa_aplikācija.Properties.Resources.resources
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\obj\Debug\fitnesa aplikācija.csproj.GenerateResource.cache
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\obj\Debug\fitnesa aplikācija.csproj.CoreCompileInputs.cache
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\obj\Debug\fitnesa aplikācija.csproj.CopyComplete
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\obj\Debug\fitnesa aplikācija.exe
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\obj\Debug\fitnesa aplikācija.pdb
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Newtonsoft.Json.dll
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Newtonsoft.Json.xml
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.Auth.dll
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.Core.dll
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.dll
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.Fitness.v1.dll
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\System.CodeDom.dll
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.pdb
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.xml
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.Auth.pdb
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.Auth.xml
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.Core.pdb
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.Core.xml
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.Fitness.v1.pdb
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\Google.Apis.Fitness.v1.xml
+Z:\Programēšana 11g\fitnesa aplikācija\fitnesa aplikācija\bin\Debug\System.CodeDom.xml
